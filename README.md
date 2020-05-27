@@ -1,3 +1,2 @@
 # Guessinggame
-# 27/5/20 06:00pm
-# 27 Lines
+ 27 May 2020 06:00pm there are 27 lines
